@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void simple_helper(void);
+
 int main(void)
 { 
 	printf("Hola niggerm\n");
